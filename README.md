@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 <h3 align="left">My Tech Stack:</h3>
 <h4>Languages and Tools</h4>
 <p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
       width="40"
       height="40"
     />
@@ -53,10 +53,10 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/Style/CSS/software.en.html" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-      alt="dart"
+      src="https://logowik.com/css3-vector-logo-2229.html"
+      alt="css"
       width="40"
       height="40"
     />
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h4>Frontend Technologies</h4>
+<h4>Databases</h4>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
@@ -167,18 +167,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h4>Mobile Dev Technologies</h4>
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="flutter"
-      width="40"
-      height="40"
-    />
-  </a>
- </p>
 
-<!-- [![John-Dag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaedag&count_private=true&theme=github-dark)](https://github.com/jaedag) -->
+<!-- [![Jmintah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaedag&count_private=true&theme=github-dark)](https://github.com/jmintah) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaedag&layout=compact&count_private=true&theme=github-dark)](https://github.com/jaedag) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaedag&layout=compact&count_private=true&theme=github-dark)](https://github.com/jmintah) -->
