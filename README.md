@@ -18,23 +18,13 @@ Here are some ideas to get you started:
 <h3 align="left">Get In Touch:</h3>
 
 
-  <a href="https://linkedin.com/in/john-dag-addy" target="blank"
+  <a href="https://www.linkedin.com/in/jevin-mintah-616098197/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="john-dag-addy"
+      alt="jmintah"
       height="30"
       width="40"
-  /></a>
-  <a href="https://stackoverflow.com/users/jd_addy" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="jd_addy"
-      height="30"
-      width="40"
-  /></a>
-
 </p>
 
 
