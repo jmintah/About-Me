@@ -1,11 +1,11 @@
 ### Hello, I'm Jevin Mintah
 
 - 🔭 working on projects with Data Analysis
-- 🌱 currently learning 
+- 🌱 currently learning Machine Learning
 - 👯 looking to collaborate on projects with AI
 
 <!--
-**jaedag/jaedag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jmintah/jmintah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,25 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left">Get In Touch:</h3>
-
-<p align="left">
-  <a href="https://twitter.com/jd_addy" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="jmintah"
-      height="30"
-      width="40"
   /></a>
-  <a href="https://instagram.com/jd_addy" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="jmintah"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/john-dag-addy" target="blank"
+  <a href="[https://linkedin.com/in/john-dag-addy](https://www.linkedin.com/in/jevin-mintah-616098197/)" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -46,7 +29,7 @@ Here are some ideas to get you started:
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="jmintahy"
+      alt="jmintah"
       height="30"
       width="40"
   /></a>
