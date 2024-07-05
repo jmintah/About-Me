@@ -25,17 +25,6 @@ Here are some ideas to get you started:
       alt="jmintah"
       height="30"
       width="40"
-  /></a>
-  <a href="https://stackoverflow.com/users/jd_addy" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="jmintah"
-      height="30"
-      width="40"
-  /></a>
-  
-  <a href="https://www.buymeacoffee.com/jd_addy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
 <h3 align="left">My Tech Stack:</h3>
