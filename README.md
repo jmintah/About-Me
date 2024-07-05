@@ -2,7 +2,7 @@
 
 - 🔭 working on projects with Data Analysis
 - 🌱 currently learning Machine Learning
-- 👯 looking to collaborate on projects with AI
+- 👯 looking for exposure into Data Analysis
 
 <!--
 **jmintah/jmintah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
