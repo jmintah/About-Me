@@ -25,6 +25,7 @@ Here are some ideas to get you started:
       alt="jmintah"
       height="30"
       width="40"
+      
 </p>
 
 <h3 align="left">My Tech Stack:</h3>
