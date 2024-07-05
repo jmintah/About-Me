@@ -17,25 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Get In Touch:</h3>
 
- <h3 align="left">Get In Touch:</h3>
 
-<p align="left">
-  <a href="https://twitter.com/jd_addy" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="jd_addy"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/jd_addy" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="jd_addy"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://linkedin.com/in/john-dag-addy" target="blank"
     ><img
       align="center"
@@ -52,9 +34,9 @@ Here are some ideas to get you started:
       height="30"
       width="40"
   /></a>
-  
-  <a href="https://www.buymeacoffee.com/jd_addy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 </p>
+
 
 <h3 align="left">My Tech Stack:</h3>
 <h4>Languages and Tools</h4>
